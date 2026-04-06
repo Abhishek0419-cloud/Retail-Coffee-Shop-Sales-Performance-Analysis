@@ -72,7 +72,7 @@ It enables data-driven decision-making by identifying patterns across time, geog
 ## 🚀 How to Use
 
 1. Clone the repository:
-   git clone https://github.com/your-username/coffee-sales-dashboard.git
+   git clone https://github.com/Abhishek0419-cloud/coffee-sales-dashboard.git
 
 2. Open the Power BI file:
    Dashboard/Coffee_Sales_Dashboard.pbix
