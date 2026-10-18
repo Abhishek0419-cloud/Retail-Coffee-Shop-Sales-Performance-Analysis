@@ -2,8 +2,8 @@
 
 An interactive Excel dashboard that analyses 1,000 coffee order lines (Jan 2019 – Aug 2022) across the United States, Ireland and the United Kingdom. It combines three relational tables, formula-driven data enrichment, PivotTables and slicers to answer: **what sells, where, to whom, and at what margin?**
 
-<!-- Add a screenshot of the Dashboard sheet here: -->
-<!-- ![Dashboard preview](Dashboard.png) -->
+
+![Dashboard](Dashboard.png)
 
 ---
 
